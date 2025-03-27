@@ -1,0 +1,1 @@
+print("É preciso fazer todos os exercícios para aprender.")
